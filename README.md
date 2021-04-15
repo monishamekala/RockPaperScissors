@@ -26,3 +26,5 @@ Step 3: Copy all the files to the 'htdocs' folder in the XAMPP
 Step 4: Start Apache
 
 Step 5: Run 'RPS game' folder
+
+To have a look over the website visit: https://powerful-springs-22891.herokuapp.com/
